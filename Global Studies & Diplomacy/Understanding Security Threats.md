@@ -6,16 +6,16 @@ A Security Threat is a: "natural or man-made occurrence, individual, entity, or 
   - Low
 
 ##Elements of National Security
-  - Military Security
+  - Military Security  
     The nation is able to defend itself from, or deter, military aggression (foreign or domestic). This can also be extended to refer to the capability of a nation to enforce its decisions through military force.
-  - Political Security
+  - Political Security  
     The nation is able to defend and protect the stability of the existing political/social order.
-  - Economic Security
+  - Economic Security  
     The nation is able to protect freedom to develop its economy in the way it desires.
-  - Evnironmental Security
+  - Evnironmental Security  
     The nation is able to protect itself from enironmental issues that threaten the wellbeing of the nation in any way.
     These can be transnational environmental issues in a board sense, such as global warming, or specific environmental situations that can cause other types of security threats.
-  - Energy/resource Security
+  - Energy/resource Security  
     The nation is able to protect its access to energy and natural resources in order to develop its industrial and economic capabilities and power.
 
 ##Types of Security Threats
